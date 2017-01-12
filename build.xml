@@ -8,7 +8,7 @@
 	<property name="war.dir" value="wars" />
 	
 	<path id="project_classpath" >
-	 <pathelement path="${web.dir}/WEB-INF/lib/servlet-api-2.5.jar"/>
+	 <pathelement path="${web.dir}/WEB-INF/lib/servlet-api-2.0.jar"/>
 	 <pathelement path="${env.CLASSPATH}"/>
 	</path>
 	
